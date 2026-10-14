@@ -186,6 +186,11 @@ const zodToXConverters: ZodResource[] = [
 
 const xToZodConverters: ZodResource[] = [
   {
+    name: "Tool Kumar",
+    url: "https://tools.vikasmaur.com/",
+    description: "Convert JSON documents to Zod schemas in a free browser-based tool",
+  },
+  {
     name: "orval",
     url: "https://github.com/orval-labs/orval",
     description: "Generate Zod schemas from OpenAPI schemas",
